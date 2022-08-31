@@ -103,6 +103,14 @@ Note that port 9610 has been [reserved][4] for the redfish_exporter.
 - Dell PowerEdge R440, R640, R650, R6515, C6420
 - GIGABYTE G292-Z20, G292-Z40, G482-Z54
 
+## Grafana dashboard
+<img width="1737" alt="Снимок экрана 2022-08-31 в 15 01 02" src="https://user-images.githubusercontent.com/4948177/187674246-11b56252-3ffb-40bf-8b51-d9acfd1573a9.png">
+<img width="1722" alt="Снимок экрана 2022-08-31 в 15 03 20" src="https://user-images.githubusercontent.com/4948177/187674256-55ce0c71-b47a-40f0-b0ff-263a6d8eaf02.png">
+<img width="1723" alt="Снимок экрана 2022-08-31 в 15 03 35" src="https://user-images.githubusercontent.com/4948177/187674272-1010b218-c958-4f4d-b83e-00a0b8302a39.png">
+<img width="1732" alt="Снимок экрана 2022-08-31 в 15 03 47" src="https://user-images.githubusercontent.com/4948177/187674292-9eb785e3-f12b-49f5-95e4-b44f7cb54af2.png">
+<img width="1738" alt="Снимок экрана 2022-08-31 в 15 03 59" src="https://user-images.githubusercontent.com/4948177/187674306-f61b3948-2879-4004-9a60-bbcf8b545305.png">
+
+
 ## Acknowledgement
 
 - [gofish][5] provides the underlying library to interact servers
