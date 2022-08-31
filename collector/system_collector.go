@@ -21,7 +21,7 @@ var (
 	SystemSubsystem                   = "system"
 	SystemLabelNames                  = []string{"hostname", "resource", "system_id"}
 	SystemMemoryLabelNames            = []string{"hostname", "resource", "memory", "memory_id"}
-	SystemProcessorLabelNames         = []string{"hostname", "resource", "processor", "processor_id"}
+	SystemProcessorLabelNames         = []string{"hostname", "resource", "processor", "processor_id", "model"}
 	SystemVolumeLabelNames            = []string{"hostname", "resource", "volume", "volume_id"}
 	SystemDeviceLabelNames            = []string{"hostname", "resource", "device"}
 	SystemDriveLabelNames             = []string{"hostname", "resource", "drive", "drive_id"}
