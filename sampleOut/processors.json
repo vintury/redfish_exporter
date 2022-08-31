@@ -1,6 +1,6 @@
 {
   "@odata.id": "/redfish/v1/Systems/1/Processors/",
-  "Members@odata.count": 5,
+  "Members@odata.count": 4,
   "@odata.context": "/redfish/v1/$metadata#ProcessorCollection.ProcessorCollection",
   "Members": [
     {
@@ -14,9 +14,6 @@
     },
     {
       "@odata.id": "/redfish/v1/Systems/1/Processors/4"
-    },
-    {
-      "@odata.id": "/redfish/v1/Systems/System.Embedded.1/ProcessorSummary/Model"
     }
   ],
   "Oem": {
